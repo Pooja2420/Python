@@ -1,7 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 19 October 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link: https://www.youtube.com/watch?v=N9ay7r-HE1U
 
 # Importing random module to generate random numbers when the dices are being rolled.
 import random
