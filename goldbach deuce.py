@@ -1,8 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 12 October 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link: https://www.youtube.com/watch?v=inLrctzCop0
-
 # Function to perform binary search on a lst
 def binary_search(lst, target):
     # Initializing left and right pointers staring from 0 to length of lst - 1
