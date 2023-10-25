@@ -1,8 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 03 October 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link:https://www.youtube.com/watch?v=NLBgD9Jy5FM
-
 # Start of Program of Goldbach's Conjecture for all integers less than 100
 # Function to generate all primes up to n using a sieve of Eratosthenes
 # Defining is_prime_sieve() function to find the number is prime or not
