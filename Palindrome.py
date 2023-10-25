@@ -1,8 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 26 October 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link:
-
 # Importing document module to save dates in docx extension files.
 from docx import Document
 # Creating a function to check date is a palindrome or not.
