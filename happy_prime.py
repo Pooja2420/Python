@@ -1,8 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 03 October 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link:https://www.youtube.com/watch?v=ZcNOPb1Zy6c
-
 # Python code to check if a number is a happy prime, sad prime, happy non-prime, or sad non-prime.
 # Defining the is_happy() function to check if a number is happy or not
 def is_happy(n):
