@@ -1,7 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 15 September 2023
-# I have not given or received any unauthorized assistance on this assignment.
-
 def GradeLogic(): #defining the grading logic function. It performs the logic for grading.
     value_1=str(input("Assignment submitted? (Yes/No)"))
     grade=0   # initializing grade as zero
