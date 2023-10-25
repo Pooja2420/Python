@@ -1,7 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 15 September 2023
-# I have not given or received any unauthorized assistance on this assignment.
-
 def Computegcd(num1, num2): # initializing a function for gcd computation
     while num2 != 0:
         num1, num2 = num2, num1 % num2
