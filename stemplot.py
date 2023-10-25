@@ -1,8 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 25 September 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link: https://www.youtube.com/watch?v=XRmm-y339-Y
-
 # Start of the program
 # Function for reading a txt file
 def read_file(file_path):
