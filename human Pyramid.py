@@ -1,8 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 12 October 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link: https://www.youtube.com/watch?v=6udvPg6i488
-
 # Function creation for human pyramid.
 def humanPyramid(row, column):
     # Initialising the value of weight as mentioned in the assignment
