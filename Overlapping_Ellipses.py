@@ -1,8 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 04 November 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link: https://www.youtube.com/watch?v=pBjJ7_KuOJ0
-
 # Importing datetime module from datetime library for date and time manipulations
 from datetime import datetime  
 # Importing specific functions from a custom module named 'WarAndPeace'
