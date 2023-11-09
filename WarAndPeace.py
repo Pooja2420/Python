@@ -1,9 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 04 November 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link: https://www.youtube.com/watch?v=MnF1ZNTVIkY
-
-
 # Importing required module
 from datetime import datetime 
 import random
