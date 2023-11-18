@@ -1,7 +1,4 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 15 November 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link: https://www.youtube.com/watch?v=LDnRxqwmz8U
+
 
 # Importing required modules.
 import numpy as np
