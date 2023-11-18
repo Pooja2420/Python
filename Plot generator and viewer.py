@@ -1,8 +1,3 @@
-# Name: Pooja Venugopal Baskaran
-# Date : 08 November 2023
-# Honour Statement: I have not given or received any unauthorized assistance on this assignment.
-# Video Link: https://www.youtube.com/watch?v=WxhepinHHl0
-
 # Importing required Modules.
 import random
 # Creating SimplePlotGenerator class for generating simple plots.
